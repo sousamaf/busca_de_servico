@@ -1,0 +1,6 @@
+Observações do serviço
+
+inserir foto no cadastro
+avalição obrigatorio
+
+rever como o cliente irá avaliar o serviço após a execução do mesmo.
