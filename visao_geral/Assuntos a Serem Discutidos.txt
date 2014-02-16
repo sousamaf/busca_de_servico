@@ -1,0 +1,4 @@
+• A pessoa que contrata serviços diariamente ou mensalmente por exemplo, pode salvar seus serviços favoritos para facilitar nas buscas futuras.
+• Na hora do cadastro da pessoa, realizar um questionário com perguntas que geralmente quem contrata o serviço gostaria de saber, como por exemplo: Quanto tempo de experiência a pessoa tem no ramo? Se ela fuma? Quanto ela cobra? (Pode haver reajuste na pergunta anterior) entre outras.
+• Ter duas formas de cadastro de endereço, a primeira será inserida manualmente em um campo de texto e a segunda será uma busca da posição atual utilizando GPS.
+• Quais ferramentas serão utilizadas no desenvolvimento do projeto.
