@@ -1,6 +1,6 @@
-Observações do serviço
+ObservaÃ§Ãµes do serviÃ§o
 
 inserir foto no cadastro
-avalição obrigatorio
+avaliaÃ§Ã£o obrigatÃ³rio
 
-rever como o cliente irá avaliar o serviço após a execução do mesmo.
+rever como o cliente ira avaliar o serviÃ§o apÃ³s a execuÃ§Ã£o do mesmo.
