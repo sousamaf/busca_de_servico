@@ -1,0 +1,11 @@
+Newell e Simon sustentam que a atividade inteligente, quer seja humana ou de uma máquina, é alcançada pelo uso de:
+1 - padrões simbólicos para representar aspectos significativos de um domínio de problema.
+2 - Operações sobre estes padrões para gerar soluções potenciais dos problemas.
+3 - Busca para selecionar uma solução entre estas possiblidades.
+A hipótese do sistema simbólico físico implicitamente distingue os padrões formados por um arranjo de símbolos e o meio usado para implementá-los. Se a inteligência advém apenas da estrutura de um sistema simbólico, então qualquer meio que implemente com sucesso os padrões e os processos corretos alcançará a inteligência, independentemente de ele ser composto por neurônios, circuitos lógicos ou blocos de montar. De acordo com a tese de Church-Turing (Machtey e Young, 1979), os computadores são capazes de implementar qualquer processo simbólico efetivamente descrito.
+
+Obs: Texto representando que as máquinas também possuem capacidade de armazenar conhecimento, através da implementação estruturada de um sistema simbólico.
+
+Texto do Livro - Inteligência Artificial: Estruturas e Estratégias para a Solução de Problemas Complexos.
+CAPíTULO - PARTE II Inteligênica artificial como Representação e Busca.
+link do livro - http://books.google.com.br/books?id=h2GJLP6jQ4kC&printsec=frontcover&hl=pt-BR&source=gbs_atb#v=onepage&q&f=false
