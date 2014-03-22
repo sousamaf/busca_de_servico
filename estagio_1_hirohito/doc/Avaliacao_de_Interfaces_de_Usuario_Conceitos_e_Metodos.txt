@@ -1,5 +1,31 @@
-Fonte para citação:
+﻿Fonte para citação:
 PRATES, R. O. ; BARBOSA, Simone Diniz Junqueira . Avaliação de Interfaces de Usuário - Conceitos e Métodos . In: Juan Manuel Adán Coello; Sandra C. P. Ferraz Fabbri. (Org.). Jornada de Atualização em Informática do Congresso da Sociedade Brasileira de Computação. Campinas: SBC, 2003, v. 2, p. 245-293.
 
 
 Observações da leitura:
+A interação é o processo de comunicação entre pessoas e sistemas interativos. Pode ser compreendido da maneira, o usuário ‘fala’ e o sistema interativo ‘ouve’, interpreta e executa a ação.
+
+A interface pode ser entendida como um sistema de comunicação, ela engloba software e hardware.
+
+Antes de declarar um software ou até hardware pronto para uso, é importante saber se ele apoia adequadamente os usuários, em relação as suas tarefas e no ambiente em que será utilizado. Assim, do mesmo jeito como testes de funcionalidade de implementação são necessários para se verificar a robustez do mesmo, a avaliação de interface é necessária para se analisar a usabilidade de uso de um software. Quanto mais cedo forem encontrados os problemas de interação ou de interface, menor o custo de se consertá-los.
+
+O projetista não deve supor que apenas sua avaliação própria será o suficiente para avaliar um sistema, por pensar que todos os usuários são como ele.
+
+Alguns dos principais objetivos de se realizar avaliação de sistemas interativos são identificar problemas de interação ou de interface, pois como dito anteriormente, quanto antes encontrados, menor será o custo; investigar como uma interface afeta a forma de trabalhar dos usuários; comparar alternativas de projeto de interface, com o intuito de utilizar interfaces habituáveis; alcançar objetivos quantificáveis em métricas de usabilidade; verificar conformidade com um padrão ou conjunto de heurísticas.
+
+O conceito de qualidade de uso está ligado a capacidade e facilidade do usuário em aprender e realizar uma determinada tarefa com satisfação.
+
+O conceito de usabilidade pode ser relacionado com várias partes, são elas, a facilidade de aprendizado, a facilidade de uso, a eficiência de uso e produtividade, a satisfação do usuário, a flexibilidade, a utilidade e a segurança no uso.
+
+Em sistemas em que os usuários entendem as decisões que o projetista tomou ao construir aquela interface, os mesmos devem ser capazes de responder tais perguntas. Para que o sistema serve? Qual é a vantagem de utilizá-lo? Como funciona? Quais são os princípios gerais de interação com o sistema? Assim o projetista na hora de desenvolver a interface, deve ter em mente as respostas destas quatros questões.
+
+A aplicabilidade de um sistema permite determinar o quanto o sistema é útil para o contexto em que foi projetado e em que outros contextos o sistema pode ser útil.
+Interfaces com baixa qualidade de uso trazem diversos problemas, dentre os quais: requerem treinamento excessivo; desmotivam a exploração; confundem os usuários; induzem os usuários ao erro; geram insatisfação; diminuem a produtividade; não trazem o retorno de investimento previsto. Estes problemas podem ser detectados através de métodos de avaliação diversos, realizados ao longo do processo de desenvolvimento.
+
+Ao definir um método de avaliação, é necessário entender as características da cada método para selecionar o mais adequado ao contexto. As principais diferenças entre os métodos são a etapa do ciclo de design do software em que devem ou podem ser aplicados, a técnica utilizada para coletar os dados, os tipos de dados coletados, e ainda o tipo de análise feito.
+
+É importante saber quais são os recursos disponíveis, pois encima disso, que é decidido quais das várias técnicas de coleta de dados sobre a interface será utilizada. As principais das várias técnicas do mesmo são: Coleta da opinião de usuários, Observação de usuários, Registro de uso, Coleta da opinião de especialistas.
+
+Dados coletados a partir de uma avaliação podem ser quantitativos e qualitativos. Os quantitativos são aqueles que podem ser representados numericamente, como cálculos estatísticos simples, desvio padrão ou médias. Os qualitativos são resultados não numéricos, como uma lista de problemas que os usuários tiveram ao utilizar o sistemas, ou sugestões sobre como melhorar o projeto de interação.
+
+Para organizar as decisões que devem ser tomadas com respeito a uma avaliação de IHC, propõe-se utilizar o esquema DECIDE, para ajudar avaliadores inexperientes no planejamento e realização de uma avaliação. Os pontos relevantes a serem considerados são: Determinar os objetivos gerais que a avaliação deverá tratar, Explorar perguntas específicas a serem respondidas, Escolher o paradigma e as técnicas de avaliação que responderão as perguntas, Identificar questões práticas que devem ser tratadas, Decidir como lidar com questões éticas, Avaliar, interpretar e apresentar os dados.
