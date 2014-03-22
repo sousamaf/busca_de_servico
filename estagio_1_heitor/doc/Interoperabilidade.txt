@@ -1,0 +1,74 @@
+﻿Interoperabilidade:
+
+Web Service, um conceito inovador de interação entre aplicações distintas e linguagem as quais é desenvolvida distintas.
+Para aplicações terem interação umas com as outras é necessário que possua uma linguagem padrão e essa linguagem padrão
+é a linguagem XML que em todas as linguagem é reconhecida e interpretada da mesma forma.
+
+A linguagem XML é uma linguagem de marcação criada e padronizada pela W3C.
+
+Motivo das aplicações utilizarem a XML é devido ás caracteristicas que as diferenciam das demais. Segundo Chappell e Jewell(2002):
+Arquivos XML tem uma estrutura pré-estabelecida.
+Opicionalmenta uma DTD(Document Type Definition), que define a estuda do arquivo XML.
+Opcionalmente como as informações de folha de estilo que definem como os dados serão apresentado e formatado.
+Parse XML, que é usado para manipulação dos arquivos XML.
+
+Linguagem XML trabalha na camada de middleware desempenhada até então pelos protocolos e APIS dos sistema distribuidos.
+
+Uma interação dinâmica de sistemas e serviços requererá, a combinação e envolvimentos das tecnologias SOAP, WSDL e UDDI
+cada tecnologia é responsavel por um tipo de serviço da arquitetura do web service e é necessário essas tecnologias para manter o 
+sistema ativo e funcionamento corretamente.
+
+Protocolo SOAP:
+
+Os Web Service as vezes passam despercebidos, exemplos: consulta de cartão de crédito e consulta de cep. É que entra o protocolo
+mais utilizado para troca de mensagem em XML: o SOAP, pois possibilita a construção e o tráfego de informações estruturadas e extensível
+em ambientes distribuidos e descentralizados por meio da linguagem XML, oque possibilita a utilização de outros protocolos
+que também utiliza a padronização XML.
+
+mensagens criadas com a utilização do SOAP, segundo Deitel, Deitel e Nieto (2003), 
+são compostas de um número distinto de partes, que expomos a seguir. 
+Envelope que é utilizado para descrever o conteúdo da mensagem e alguns detalhes de processamento.
+Regras que são utilizadas para definir tipos de codificação utilizada pela mensagem.
+Aplicação, descreve a aplicação dos envelopes e das regras para chamdas remotas e respostas entre os Web Service que geralmente
+é utilizada por meio do protocolo HTTP.
+
+Estrutura de comunicação a ser utilizada pelas aplicações que se proprõem a utiliza o SOAP, deve considerar:
+Modelo de processamento que o protocolo SOAP disponibiliza, que possibilita que suas mensagens sejam envidas e possam
+realizar saltos de aplicações intermediarias até a aplicação de destino.
+
+Modelo de extensibilidade é uma característica herdada da XML, o SOAP dá suporte a qualquer extensão necessária  ao 
+ambiente de comunicação.
+
+estrutura de ligação do protocolo: no SOAP, considerando que ele descende da linguagem neutra XML, 
+é possível utilizar diferentes protocolos subjacentes por meio do conceito de Binding, que são regras 
+formais que definem como o intercâmbio será realizado;
+
+construção de mensagem: consiste no mais importante passo para o processo de comunicação por meio do SOAP, 
+utilizando a especificação XML para compor documentos de dados nos quais deve estar definida,
+por exemplo, a forma como a mensagem SOAP será enviada por meio de um documento XML.
+
+Para o processo de comunicação, podem ser aplicadas duas forma de SOAP: O RPC é um método para que aplicações possam realizar
+chamadas a procedimentos ou funcionalidades sobre outra aplicação, passando argumentos, e se necessário,
+recebendo valores trabalhados de retorno.
+
+
+Estrutura WSDL:
+SOAP é uma estrutura XML para comunicação entre Web Service e aplicações. Porem esse protocolo não supre todas as necessidades
+de descrever as informações dos serviços e como invoca-los. Para suprir tal deficiência é necessário o WSDL.
+
+As estruturas WSDL são nada mais nada menos que documentos XML que descrever como uma coleção de serviços e seus pontos de acesso
+podem ser capazes de responder a mensagem de interação entre duas ou mais aplicações e um servidor Web Service. Ou seja, um arquivo
+WSDL descreve os detalhes de como deve ser realizada a troca de mensagem para se obter o resultado esperado.
+
+Os arquivos WSDL devem informar o que cada um dos serviços faz, como invocá-los e como fazer para achaá-los na web de maneira
+que os outros possam usufruir de suas funcionalidades.
+
+WSDL é a base para que o registro UDDI possa informar aos clientes qual serviço está disponivel e com ele deve proceder para fazer
+uso desse serviço.
+
+
+
+
+
+
+
