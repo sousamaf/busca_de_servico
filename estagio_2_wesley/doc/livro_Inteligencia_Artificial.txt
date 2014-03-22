@@ -1,11 +1,11 @@
-Newell e Simon sustentam que a atividade inteligente, quer seja humana ou de uma máquina, é alcançada pelo uso de:
-1 - padrões simbólicos para representar aspectos significativos de um domínio de problema.
-2 - Operações sobre estes padrões para gerar soluções potenciais dos problemas.
-3 - Busca para selecionar uma solução entre estas possiblidades.
-A hipótese do sistema simbólico físico implicitamente distingue os padrões formados por um arranjo de símbolos e o meio usado para implementá-los. Se a inteligência advém apenas da estrutura de um sistema simbólico, então qualquer meio que implemente com sucesso os padrões e os processos corretos alcançará a inteligência, independentemente de ele ser composto por neurônios, circuitos lógicos ou blocos de montar. De acordo com a tese de Church-Turing (Machtey e Young, 1979), os computadores são capazes de implementar qualquer processo simbólico efetivamente descrito.
+ï»¿Newell e Simon sustentam que a atividade inteligente, quer seja humana ou de uma mÃ¡quina, Ã© alcanÃ§ada pelo uso de:
+1 - padrÃµes simbÃ³licos para representar aspectos significativos de um domÃ­nio de problema.
+2 - OperaÃ§Ãµes sobre estes padrÃµes para gerar soluÃ§Ãµes potenciais dos problemas.
+3 - Busca para selecionar uma soluÃ§Ã£o entre estas possiblidades.
+A hipÃ³tese do sistema simbÃ³lico fÃ­sico implicitamente distingue os padrÃµes formados por um arranjo de sÃ­mbolos e o meio usado para implementÃ¡-los. Se a inteligÃªncia advÃ©m apenas da estrutura de um sistema simbÃ³lico, entÃ£o qualquer meio que implemente com sucesso os padrÃµes e os processos corretos alcanÃ§arÃ¡ a inteligÃªncia, independentemente de ele ser composto por neurÃ´nios, circuitos lÃ³gicos ou blocos de montar. De acordo com a tese de Church-Turing (Machtey e Young, 1979), os computadores sÃ£o capazes de implementar qualquer processo simbÃ³lico efetivamente descrito.
 
-Obs: Texto representando que as máquinas também possuem capacidade de armazenar conhecimento, através da implementação estruturada de um sistema simbólico.
+Obs: Texto representando que as mÃ¡quinas tambÃ©m possuem capacidade de armazenar conhecimento, atravÃ©s da implementaÃ§Ã£o estruturada de um sistema simbÃ³lico.
 
-Texto do Livro - Inteligência Artificial: Estruturas e Estratégias para a Solução de Problemas Complexos.
-CAPíTULO - PARTE II Inteligênica artificial como Representação e Busca.
+Texto do Livro - InteligÃªncia Artificial: Estruturas e EstratÃ©gias para a SoluÃ§Ã£o de Problemas Complexos.
+CAPÃ­TULO - PARTE II InteligÃªnica artificial como RepresentaÃ§Ã£o e Busca.
 link do livro - http://books.google.com.br/books?id=h2GJLP6jQ4kC&printsec=frontcover&hl=pt-BR&source=gbs_atb#v=onepage&q&f=false
