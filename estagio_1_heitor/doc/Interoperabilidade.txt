@@ -66,6 +66,22 @@ que os outros possam usufruir de suas funcionalidades.
 WSDL é a base para que o registro UDDI possa informar aos clientes qual serviço está disponivel e com ele deve proceder para fazer
 uso desse serviço.
 
+UDDI:
+
+UDDI (Universal Description, Discovery and Integration) é um serviço de diretório onde empresas 
+podem registrar (publicar) e buscar (descobrir) por serviços Web (Web Services). 
+UDDI é ainda um framework de plataforma independente (desenvolvido na plataforma .NET) 
+para descrever e integrar os serviços de negócios usando a internet, possibilitando assim uma 
+exposição controlada dos serviços da empresa. A comunicação é realizada através do SOAP e as interfaces 
+web service são descritas por WSDL. 
+Um serviço de registro UDDI é um Web Service que gerencia informação sobre provedores, 
+implementações e metadados de serviços. Provedores de serviços podem utilizar 
+UDDI para publicar os serviços que eles oferecem. Usuários de serviços podem usar 
+UDDI para descobrir serviços que lhes interessem e obter os metadados necessários 
+para utilizar esses serviços podem ter três partes:
+•	Páginas brancas: descrevem a companhia: nome, endereço, contatos, etc.
+•	Páginas amarelas: incluem as categorias, baseada em taxonomias padrões.
+•	Páginas verdes descrevem a interface para o serviço, em nível de detalhe suficiente para se escrever uma aplicação que use o Web service.
 
 
 
