@@ -1,0 +1,4 @@
+﻿Lendo o artigo mineraçao de dados desenvolvido por Solange Oliveira Rezende. Publicado no XXV Congresso da Sociedade Brasileira de Computação - SBC
+ano de publicação: 2003
+
+Resumo do artigo:
