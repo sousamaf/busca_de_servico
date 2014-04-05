@@ -1,32 +1,32 @@
-Fonte para citação:
-Falta montar fonte para citação, mas o artigo foi publicado, assim é valido como refencia de uso.
+ï»¿Fonte para citaÃ§Ã£o:
+Falta montar fonte para citaÃ§Ã£o, mas o artigo foi publicado, assim Ã© valido como refencia de uso.
 
-Padrões de Projeto podem ser definidos como sendo uma solução para um problema comumente encontrado que, devidamente abstraída e contextualizada, poderá solucionar um problema específico. No livro Padrões de Projeto, de Erich Gamma, defini padrão de projeto: “Um padrão de projeto sistematicamente nomeia, motiva e explica uma solução de projeto geral, que trata um problema recorrente de projeto em sistemas orientados a objetos. Ele descreve o problema, a solução, quando aplicar a solução e suas conseqüências. Também dá sugestões e exemplos de implementação. A solução é um arranjo genérico de objetos e classes que resolve o problema. A solução é customizada e implementada para resolver o problema em um contexto particular.” A definição do livro, trata padrões no contexto de programação orientada a objetos mas, com uma pequena adaptação, pode ser aplicada a qualquer solução no mundo real.
+PadrÃµes de Projeto podem ser definidos como sendo uma soluÃ§Ã£o para um problema comumente encontrado que, devidamente abstraÃ­da e contextualizada, poderÃ¡ solucionar um problema especÃ­fico. No livro PadrÃµes de Projeto, de Erich Gamma, defini padrÃ£o de projeto: â€œUm padrÃ£o de projeto sistematicamente nomeia, motiva e explica uma soluÃ§Ã£o de projeto geral, que trata um problema recorrente de projeto em sistemas orientados a objetos. Ele descreve o problema, a soluÃ§Ã£o, quando aplicar a soluÃ§Ã£o e suas conseqÃ¼Ãªncias. TambÃ©m dÃ¡ sugestÃµes e exemplos de implementaÃ§Ã£o. A soluÃ§Ã£o Ã© um arranjo genÃ©rico de objetos e classes que resolve o problema. A soluÃ§Ã£o Ã© customizada e implementada para resolver o problema em um contexto particular.â€ A definiÃ§Ã£o do livro, trata padrÃµes no contexto de programaÃ§Ã£o orientada a objetos mas, com uma pequena adaptaÃ§Ã£o, pode ser aplicada a qualquer soluÃ§Ã£o no mundo real.
 
-A estrutura de um padrão, na sua forma mais básica, consiste de três elementos: problema, solução e contexto. Dentro das diversas áreas onde os padrões de projeto são utilizados, podem ter mais seções.
+A estrutura de um padrÃ£o, na sua forma mais bÃ¡sica, consiste de trÃªs elementos: problema, soluÃ§Ã£o e contexto. Dentro das diversas Ã¡reas onde os padrÃµes de projeto sÃ£o utilizados, podem ter mais seÃ§Ãµes.
 
-Segundo o livro The Timeless Way of Building, de Christopher Alexander, defini padrão como: “Um padrão é uma regra em três partes, que expressa uma relação entre um certo contexto, um problema e uma solução.
+Segundo o livro The Timeless Way of Building, de Christopher Alexander, defini padrÃ£o como: â€œUm padrÃ£o Ã© uma regra em trÃªs partes, que expressa uma relaÃ§Ã£o entre um certo contexto, um problema e uma soluÃ§Ã£o.
 
-Como um elemento no mundo, cada padrão é uma relação entre um determinado contexto, um determinado sistema de forças que ocorrem repetidamente dentro deste contexto, e uma certa configuração espacial que possibilita às forças se resolverem.
+Como um elemento no mundo, cada padrÃ£o Ã© uma relaÃ§Ã£o entre um determinado contexto, um determinado sistema de forÃ§as que ocorrem repetidamente dentro deste contexto, e uma certa configuraÃ§Ã£o espacial que possibilita Ã s forÃ§as se resolverem.
 
-Como um elemento de linguagem, um padrão é uma instrução, que mostra como esta configuração espacial pode ser utilizada, muitas e muitas vezes, para resolver o tal sistema de forças, onde quer que o contexto evidencie relevância.
+Como um elemento de linguagem, um padrÃ£o Ã© uma instruÃ§Ã£o, que mostra como esta configuraÃ§Ã£o espacial pode ser utilizada, muitas e muitas vezes, para resolver o tal sistema de forÃ§as, onde quer que o contexto evidencie relevÃ¢ncia.
 
-O padrão é, em resumo, ao mesmo tempo uma entidade, que acontece no mundo, e a regra que nos diz como criar tal entidade, e quando nós devemos criá-la. Ele é tanto um processo quanto uma entidade; ao mesmo tempo a descrição de uma entidade que vive, e uma descrição do processo que gerou tal entidade.”.
+O padrÃ£o Ã©, em resumo, ao mesmo tempo uma entidade, que acontece no mundo, e a regra que nos diz como criar tal entidade, e quando nÃ³s devemos criÃ¡-la. Ele Ã© tanto um processo quanto uma entidade; ao mesmo tempo a descriÃ§Ã£o de uma entidade que vive, e uma descriÃ§Ã£o do processo que gerou tal entidade.â€.
 
-Quando se implementa uma interface de usuário, é preciso entender que o usuário é uma mescla de várias pessoas, cada uma com necessidades, restrições e preferências individuais. O usuário, então, se torna uma abstração, cujas interações deverão ser projetadas visando alguns objetivos fundamentais da experiência do usuário.
+Quando se implementa uma interface de usuÃ¡rio, Ã© preciso entender que o usuÃ¡rio Ã© uma mescla de vÃ¡rias pessoas, cada uma com necessidades, restriÃ§Ãµes e preferÃªncias individuais. O usuÃ¡rio, entÃ£o, se torna uma abstraÃ§Ã£o, cujas interaÃ§Ãµes deverÃ£o ser projetadas visando alguns objetivos fundamentais da experiÃªncia do usuÃ¡rio.
 
-A engenharia cognitiva traz alguns aspectos que auxiliam no processo de compreender as necessidades do usuário em foco, entre eles, a atenção, a percepção e reconhecimento e a memória.
+A engenharia cognitiva traz alguns aspectos que auxiliam no processo de compreender as necessidades do usuÃ¡rio em foco, entre eles, a atenÃ§Ã£o, a percepÃ§Ã£o e reconhecimento e a memÃ³ria.
 
-O projeto de interação é um processo onde o objetivo é desenvolver um espaço de trabalho, através de uma interface, onde o modelo mental do usuário alvo seja correspondido pelo modelo do programa. Os princípios de Projeto elaborado por Donald Norman quando seguidos, elevam a qualidade do produto final:
+O projeto de interaÃ§Ã£o Ã© um processo onde o objetivo Ã© desenvolver um espaÃ§o de trabalho, atravÃ©s de uma interface, onde o modelo mental do usuÃ¡rio alvo seja correspondido pelo modelo do programa. Os princÃ­pios de Projeto elaborado por Donald Norman quando seguidos, elevam a qualidade do produto final:
 
-• Visibilidade - torne o relevante visível e o que precisa ser feito, óbvio. Em outras palavras, não deixe para o usuário a descoberta das funcionalidades.
+â€¢ Visibilidade - torne o relevante visÃ­vel e o que precisa ser feito, Ã³bvio. Em outras palavras, nÃ£o deixe para o usuÃ¡rio a descoberta das funcionalidades.
 
-• Realimentação - informe ao usuário sobre o reconhecimento de uma ação e novo estado resultante da ação que ele acaba de executar. Isto pode ser feito através de cores, texto, sons, ou uma combinação destes.
+â€¢ RealimentaÃ§Ã£o - informe ao usuÃ¡rio sobre o reconhecimento de uma aÃ§Ã£o e novo estado resultante da aÃ§Ã£o que ele acaba de executar. Isto pode ser feito atravÃ©s de cores, texto, sons, ou uma combinaÃ§Ã£o destes.
 
-• Restrições - nem tudo é permitido ao usuário e nem tudo que é permitido ele deve poder executar. As restrições, como paredes em uma sala, servem para que o usuário perceba até onde pode ir. Servem também para evitar que erros sejam cometidos.
+â€¢ RestriÃ§Ãµes - nem tudo Ã© permitido ao usuÃ¡rio e nem tudo que Ã© permitido ele deve poder executar. As restriÃ§Ãµes, como paredes em uma sala, servem para que o usuÃ¡rio perceba atÃ© onde pode ir. Servem tambÃ©m para evitar que erros sejam cometidos.
 
-• Mapeamento - é a relação entre a distribuição dos controles pela interface e seus respectivos resultados. O resultado do acionamento de um controle deve, na medida do possível, não ser surpresa para o usuário.
+â€¢ Mapeamento - Ã© a relaÃ§Ã£o entre a distribuiÃ§Ã£o dos controles pela interface e seus respectivos resultados. O resultado do acionamento de um controle deve, na medida do possÃ­vel, nÃ£o ser surpresa para o usuÃ¡rio.
 
-• Consistência - traz o conceito de quanto mais parecido forem dois elementos, mais semelhantes serão as tarefas que eles executam. A quebra da consistência aumenta o tempo de aprendizagem e normalmente induz a erros.
+â€¢ ConsistÃªncia - traz o conceito de quanto mais parecido forem dois elementos, mais semelhantes serÃ£o as tarefas que eles executam. A quebra da consistÃªncia aumenta o tempo de aprendizagem e normalmente induz a erros.
 
-• Affordance - refere-se a uma característica de um elemento que torna óbvia a sua utilização. É o poder de sugestão de uso do elemento.
+â€¢ Affordance - refere-se a uma caracterÃ­stica de um elemento que torna Ã³bvia a sua utilizaÃ§Ã£o. Ã‰ o poder de sugestÃ£o de uso do elemento.
