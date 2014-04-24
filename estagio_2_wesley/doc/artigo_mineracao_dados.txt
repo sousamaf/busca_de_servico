@@ -2,3 +2,9 @@
 ano de publicação: 2003
 
 Resumo do artigo:
+A área de mineração de dados (Data Mining) surgiu no final da década de oitenta, e focaliza a extração de conhecimento a partir de grandes volumes de dados usando computador.
+Na literatura podem ser encontradas diversas características da área, de acordo com Zhou (2003), o autor evidencia a caracterização de três perspectivas da área: 
+1 - Sobre a perspectiva de Banco de Dados, a mineração de dados é "o processo de descoberta de conhecimento interessante em grandes quantidades de dados armazenados em Bases de Dados, Data Warehouses ou outros repositórios de dados";
+2 - Sobre a perspectiva da área de Aprendizado de Máquina é caracterizada como a "extração de conhecimento implícito, previamente desconhecido e potencialmente útil a partir de dados";
+3 - Sobre a perspectiva de área de Estatística é "a análise de conjuntos de dados supervisionados, normalmente em grandes quantidades, para encontrar relacionamentos inesperados e resumir os dados em novas formas que são compreensíveis e úteis para o proprietário dos dados".
+Na literatura existe atualmente opiniões divergentes a respeito dos termos Mineração de Dados e KDD (Knowledge Discovery in Databases). De acordo com W. Frawley (1992), KDD é a "extração de conhecimento previamente desconhecida, implícita e potencialmente útil, a partir de dados". Existem autores que consideram os termos sinônimos (Fayyad, Piatesky-Shapiro, & Smyth 1996b; Mitchell 1999; Wei 2003) enquanto outros consideram a Mineração de Dados apenas um dos passos do processo de KDD, embora seja o passo principal de todo o processo (S. Mitra 2002; I. Sarafis 2002).
