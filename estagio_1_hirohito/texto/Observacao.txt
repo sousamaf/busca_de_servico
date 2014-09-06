@@ -1,4 +1,0 @@
-Levantar informações de processamento de imagem para reconhecimento de itens de trânsito. 
-Por exemplo, as faixas das vias, as bordas da rua, as placas de sinalização de velocidade máxima…
-
-Veja algo de OpenCV para reconhecimento de sinais de trânsito.
